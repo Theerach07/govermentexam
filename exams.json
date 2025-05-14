@@ -1,0 +1,51 @@
+[
+    {
+        "exam_name": "SSC CGL",
+        "qualification": "Graduate",
+        "registration_start": "2025-03-01",
+        "registration_end": "2025-04-01",
+        "fee": 100,
+        "recommended_books": [
+            "Lucent General Knowledge",
+            "Quantitative Aptitude by R.S. Aggarwal"
+        ],
+        "important_topics": [
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English",
+            "Reasoning"
+        ],
+        "exam_date": "2025-06-15",
+        "success_rate": "12%",
+        "youtube_links": [
+            "https://youtube.com/example_ssc_cgl"
+        ],
+        "model_papers": [
+            "https://example.com/ssc_cgl_paper.pdf"
+        ]
+    },
+    {
+        "exam_name": "Railway NTPC",
+        "qualification": "Graduate",
+        "registration_start": "2025-02-10",
+        "registration_end": "2025-03-10",
+        "fee": 50,
+        "recommended_books": [
+            "RPF Guide",
+            "Railway General Knowledge"
+        ],
+        "important_topics": [
+            "Maths",
+            "General Intelligence",
+            "Current Affairs"
+        ],
+        "exam_date": "2025-05-20",
+        "success_rate": "8%",
+        "youtube_links": [
+            "https://youtube.com/example_ntpc"
+        ],
+        "model_papers": [
+            "https://example.com/ntpc_paper.pdf"
+        ]
+    }
+]
